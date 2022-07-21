@@ -13,8 +13,9 @@ body{
 
 .main-nav ul {
     display: flex;
+    align-items: center;
     margin: 0;
-    padding: 1 rem;
+    padding: 1rem;
     list-style: none;
 
 }
