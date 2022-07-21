@@ -13,8 +13,8 @@ body{
 
 .main-nav {
     display: flex;
-    margin: 10rem;
-    padding: 5rem;
+    margin: 0;
+    padding: 0;
     list-style: none;
 }
 
