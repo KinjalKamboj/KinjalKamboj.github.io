@@ -6,19 +6,28 @@ body{
     padding: 0;
     margin: 0;
     background-color: #FAFAFA;
-    font-family: Itim;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.5rem;
     color: black;
 }
 
-.main-nav a{
+.main-nav ul {
     display: flex;
     align-items: center;
-    color: black;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+/*.main-nav a{
+    display: flex;
+    align-items: center;
+    color: inherit;
     text-decoration: wavy;
     padding:1 rem;
 }
-
+*/
 .main-nav a:hover {
     color: #FF8B8B;
 }
