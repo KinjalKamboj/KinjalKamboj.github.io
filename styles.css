@@ -13,7 +13,7 @@ body{
 
 .main-nav {
     display: flex;
-    margin: 20rem;
+    margin: 10rem;
     padding: 5rem;
     list-style: none;
 }
@@ -28,7 +28,11 @@ body{
     color: #FF8B8B;
 }
 
-
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 
