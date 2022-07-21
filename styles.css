@@ -11,18 +11,18 @@ body{
     color: black;
 }
 
-.main-nav ul {
+.main-nav {
     display: flex;
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-/*.main-nav a{
+.main-nav a{
     color: inherit;
-    text-decoration: wavy;
-    padding:1rem;
-}*/
+    text-decoration: none;
+    padding: 1rem;
+}
 
 .main-nav a:hover {
     color: #FF8B8B;
