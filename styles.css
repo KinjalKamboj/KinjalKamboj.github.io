@@ -13,6 +13,7 @@ body{
 
 .main-nav {
     display: flex;
+    align-items: center;
     margin: 20rem;
     padding: 5rem;
     list-style: none;
